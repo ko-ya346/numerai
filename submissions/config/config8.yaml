@@ -1,0 +1,5 @@
+model_path: 
+  - "../notebook/exp016"
+  - "../notebook/exp017"
+
+model_name: ko_ya346_8th
