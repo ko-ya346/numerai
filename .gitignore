@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+dataset
+output
+notebook/exp*
+notebook/wandb
+!notebook/exp*.ipynb
+**/__pycache__
+submissions/round*
+
