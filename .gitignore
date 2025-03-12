@@ -6,4 +6,5 @@ notebook/wandb
 !notebook/exp*.ipynb
 **/__pycache__
 submissions/round*
+submissions/env*
 
